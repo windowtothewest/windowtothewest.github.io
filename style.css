@@ -1,0 +1,19 @@
+#beegContainer {
+    background-color: black;
+
+}
+body{
+    color: #4AF626;
+    font: 1.3rem Insonolata, monospace;
+}
+#Line0 {
+    white-space: nowrap;
+    height: 40px;
+}
+#cmdLine {
+    display:inline-block;
+    background-color:black;
+    outline: none;
+    width:100%;
+    color: #4AF626;
+}
