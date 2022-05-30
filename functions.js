@@ -52,7 +52,7 @@ function terminalInit() { //Initializing terminal for use in navigation of websi
         });    
     };
     
-    typeWriter("Try typing 'help' to see available commands.",false);
+    typeWriter("Welcome! Try typing 'help' to see available commands.",false);
 };
 
 function typeWriter(newLine,isCommand) { //Moving up terminal text when command is entered
