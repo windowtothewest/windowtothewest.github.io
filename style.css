@@ -1,6 +1,5 @@
 #beegContainer {
     background-color: black;
-
 }
 body{
     color: #4AF626;
@@ -13,7 +12,17 @@ body{
 #cmdLine {
     display:inline-block;
     background-color:black;
+    border-width:0px;
     outline: none;
-    width:100%;
+    width: 75%;
     color: #4AF626;
+    font: 1.3rem Insonolata, monospace;
+    font-size:20px;
+}
+.terminal-line{
+    margin-top: 1px;
+    margin-bottom:1px;
+}
+#terminalInterface {
+    outline: 5px white;
 }
